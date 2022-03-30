@@ -1,0 +1,5 @@
+rootProject.name = 'multimodulestudy'
+include 'multi-core'
+include 'multi-web'
+include 'multi-admin'
+
